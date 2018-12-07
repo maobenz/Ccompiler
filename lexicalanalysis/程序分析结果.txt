@@ -1,0 +1,171 @@
+关键字:void
+<id,0>:getchar
+<(, - >
+关键字:char
+<'&',->
+<id,1>:ch
+<) , - >
+<esc,换行>
+<'{',->
+<esc,换行>
+<esc,制表>
+<id,2>:columnnum
+<++, - >
+<';',->
+<esc,换行>
+<esc,制表>
+<id,1>:ch
+<relop,= >
+<id,3>:buffer
+<'[',->
+<id,4>:position
+<']',->
+<';',->
+<esc,换行>
+关键字:if
+<(, - >
+<id,4>:position
+<relop,== >
+<id,5>:buffersize
+<-, - >
+<) , - >
+<esc,换行>
+<esc,制表>
+<'{',->
+<esc,换行>
+<esc,制表>
+<esc,制表>
+<id,6>:cinbuffer
+<(, - >
+<id,5>:buffersize
+<) , - >
+<';',->
+<esc,换行>
+<esc,制表>
+<esc,制表>
+<id,4>:position
+<++, - >
+<';',->
+<esc,换行>
+<esc,制表>
+<'}',->
+<esc,换行>
+<esc,制表>
+关键字:else
+关键字:if
+<(, - >
+<id,4>:position
+<relop,== >
+<id,5>:buffersize
+<-, - >
+<) , - >
+<esc,换行>
+<esc,制表>
+<'{',->
+<esc,换行>
+<esc,制表>
+<esc,制表>
+<id,6>:cinbuffer
+<(, - >
+<num,0>:0
+<) , - >
+<';',->
+<esc,换行>
+<esc,制表>
+<esc,制表>
+<id,4>:position
+<relop,= >
+<num,0>:0
+<';',->
+<esc,换行>
+<esc,制表>
+<'}',->
+<esc,换行>
+<esc,制表>
+关键字:else
+<esc,换行>
+<esc,制表>
+<id,4>:position
+<++, - >
+<';',->
+词法分析程序发现错误:位于第16行，第17列
+<esc,换行>
+<'}',->
+<esc,换行>
+关键字:void
+<id,7>:insertidstring
+<(, - >
+<) , - >
+<esc,换行>
+<'{',->
+<esc,换行>
+<esc,制表>
+关键字:int
+<id,8>:i
+<';',->
+<esc,换行>
+<esc,制表>
+关键字:for
+<(, - >
+<id,8>:i
+<relop,= >
+<num,0>:0
+<';',->
+<id,8>:i
+<relop,< >
+<id,9>:tokennum
+<';',->
+<id,8>:i
+<++, - >
+<) , - >
+<esc,换行>
+<esc,制表>
+<'{',->
+<esc,换行>
+<esc,制表>
+<esc,制表>
+<id,10>:idstring
+<'[',->
+<id,11>:idlength
+<']',->
+<'[',->
+<id,8>:i
+<']',->
+<relop,= >
+<id,12>:tokenstring
+<'[',->
+<id,8>:i
+<']',->
+<';',->
+<esc,换行>
+<esc,制表>
+<'}',->
+<esc,换行>
+<esc,制表>
+<id,10>:idstring
+<'[',->
+<id,11>:idlength
+<']',->
+<'[',->
+<id,8>:i
+<']',->
+<relop,= >
+<',->
+<\, - >
+<num,0>:0
+<',->
+<';',->
+<esc,换行>
+<esc,制表>
+<注释,strcpy_s(idstring[idlength],tokenstring);>
+<esc,制表>
+<id,11>:idlength
+<++, - >
+<';',->
+<esc,换行>
+<'}',->
+<esc,NULL>
+代码词法分析完毕，以下为统计结果：
+语句行数:28
+各类单词个数:13
+字符总数:403

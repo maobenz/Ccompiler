@@ -1,0 +1,31 @@
+﻿  LR(0).cpp
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(44): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(43): warning C4101: “j”: 未引用的局部变量
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(53): warning C4101: “i”: 未引用的局部变量
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(101): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(103): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(152): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(165): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(171): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(196): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(224): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(242): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(191): warning C4101: “tt”: 未引用的局部变量
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(270): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(301): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(303): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(299): warning C4101: “c1”: 未引用的局部变量
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(294): warning C4101: “m”: 未引用的局部变量
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(369): warning C4101: “end”: 未引用的局部变量
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(368): warning C4101: “k”: 未引用的局部变量
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(368): warning C4101: “j”: 未引用的局部变量
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(265): warning C4715: “getGenerativeIndex”: 不是所有的控件路径都返回值
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project2\project2\lr(0).cpp(273): warning C4715: “getSymbolIndex”: 不是所有的控件路径都返回值
+  Project2.vcxproj -> C:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\Project2\Debug\Project2.exe

@@ -1,0 +1,28 @@
+void getchar(char&ch)
+{
+	columnnum++;
+	ch = buffer[position];
+    if(position==buffersize/2-1)
+	{
+		cinbuffer(buffersize/2);
+		position++;
+	}
+	else if(position==buffersize-1)
+	{ 
+		cinbuffer(0);
+		position=0;
+	}
+	else
+	    position++;$
+}
+void insertidstring()
+{
+	int i;
+	for(i=0;i<tokennum;i++)
+	{
+		idstring[idlength][i]=tokenstring[i];
+	}
+	idstring[idlength][i]='\0';
+	//strcpy_s(idstring[idlength],tokenstring);
+	idlength++;
+}

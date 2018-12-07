@@ -1,0 +1,6 @@
+﻿  LL(1).cpp
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project1\project1\ll(1).cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project1\project1\ll(1).cpp(106): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project1\project1\ll(1).cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+c:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\project1\project1\ll(1).cpp(44): warning C4715: “getlength”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\大三上学期课件\大三上-资料集合\编译原理课件\语法分析\Project1\Debug\Project1.exe
